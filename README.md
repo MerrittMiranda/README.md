@@ -6,7 +6,7 @@
   <ul>
     <li> 🔭 I’m currently working as a Software Developer for American Trust Custody </li>
     <li> 💻 Previously, I worked on **Immersed - A Cyber Security Training Tool** as a Full-stack Software Engineer </li>
-    <li> 💬 Ask me about **React, .NET, C#, SQL, Java, JavaScript**</li>
+    <li> 💬 Ask me about **React, .NET, VB.Net, C#, SQL, Java, JavaScript**</li>
     <li> 📫 How to reach me **mirandamerrittdev@gmail.com**</li>
   </ul>
 </div>
